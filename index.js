@@ -89,3 +89,5 @@ const ingredientesPizzas = pizzas.forEach((pizza) => {
   console.log(pizza.ingredientes.join(", "));
   console.log("**************************************************");
 });
+
+ingredientesPizzas;
