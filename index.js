@@ -56,6 +56,7 @@ const pizzaIdImpar = pizzas.forEach(
   }
 }
 )
+pizzaIdImpar;
 
 //b) Responder: ¿Hay alguna pizza que valga menos de $600?
 const precioMenos600 = pizzas.forEach(
